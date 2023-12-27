@@ -19,14 +19,7 @@ nav {
     background-color: #8080ff;
 }
 
-aside {
-    width: 25%;
-    position: sticky;
-    top: 100px;
-    float: left;
-    margin-left: -25%;
-    background-color: #ff8040;
-}
+
 footer {
     clear: left;
     background-color: #400000;
